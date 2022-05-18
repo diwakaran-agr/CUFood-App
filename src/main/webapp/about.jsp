@@ -10,27 +10,25 @@
 <body>
 <div style="color: white; text-align: center; font-size: 30px;">About <i class="fa fa-address-book"></i></div>
 <div style="background-color: white; padding:35px; font-size: 30px;">
-BTech Days
+CUFOOD App
+<br>
 <br>
 Hey everyone!!
 <br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
+We 4 members united to make a web application for ordering food inside our Chandigarh University Campus
 <br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
+We hope you all will like our effort and appereciate it
+Thank You!
 <br>
-Contact us at :- btechdays.care@gmail.com
+Contact us at :- gourp8@gmail.com
 <br>
 or
 <br>
-contact us at instagram :- btechdays
+Contact us at instagram :- group8CU
 </div>
+
+</body>
+</html>
 
 </body>
 </html>
